@@ -1,7 +1,7 @@
 .glide__arrow{
   position:absolute;
   display:block;
-  top:-30rem;
+  top:-25rem;
   z-index:2;
   color:black;
   text-transform:uppercase;
@@ -73,4 +73,18 @@
   cursor:grabbing;
   cursor:-moz-grabbing;
   cursor:-webkit-grabbing;
+}
+.blurb {
+  font-family: sans-serif;
+  position: absolute;
+  top: 30%;
+  margin-left: .2%;
+}
+.title-1 {
+  font-size: 4rem;
+}
+.paragraph-1 {
+  font-size: 2rem;
+  line-height: 3rem;
+
 }
